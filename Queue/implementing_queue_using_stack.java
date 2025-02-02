@@ -6,6 +6,7 @@ class MyQueue {
     private Stack<Integer> output;
 
     public MyQueue() {
+        
         input = new Stack<>();
         output = new Stack<>();
     }
